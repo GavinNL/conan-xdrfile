@@ -1,10 +1,10 @@
-# Conan Recipe for cci
+# Conan Recipe for xdrfile
 
 |    | Badge |
 |:--------:|:---------:
-| Recipe License         | [![License: GPL v3](https://img.shields.io/badge/License-Bincrafters-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-| Source License         | [![License: GPL v3](https://img.shields.io/badge/License-cci-blue.svg)](https://www.unidata.ucar.edu/software/cci/docs/copyright.html)
-| Linux Package Status   | [![Build Status](https://travis-ci.org/GavinNL/conan-cci.svg?branch=master)](https://travis-ci.org/GavinNL/conan-cci)|
+| Recipe License         | [![License: LGPL](https://img.shields.io/badge/License-Bincrafters-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0.html)
+| Source License         | [![License: LGPL](https://img.shields.io/badge/License-LGPL-blue.svg)](http://www.gromacs.org/Developer_Zone/Programming_Guide/XTC_Library)
+| Linux Package Status   | [![Build Status](https://travis-ci.org/GavinNL/conan-xdrfile.svg?branch=master)](https://travis-ci.org/GavinNL/conan-xdrfile)|
 
 ## Conan Information
 
